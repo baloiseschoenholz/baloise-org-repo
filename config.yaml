@@ -163,6 +163,7 @@ orgs:
     - JanMoritz23
     - balsst
     - MartinBartolome
+    - gitgood-rmrf
     teams:
       Organization Managers:
         description: Baloise GitHub Organization Managers
