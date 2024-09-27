@@ -180,6 +180,8 @@ orgs:
         - kullmanp 
         - Tiliavir
         - svene
+        - dweber019
+        - mikevader
         privacy: closed
         repos:
           org: admin
