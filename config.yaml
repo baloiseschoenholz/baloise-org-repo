@@ -166,6 +166,7 @@ orgs:
     - JanMoritz23
     - balsst
     - MartinBartolome
+    - gitgood-rmrf
     teams:
       Organization Managers:
         description: Baloise GitHub Organization Managers
@@ -182,6 +183,8 @@ orgs:
         - kullmanp 
         - Tiliavir
         - svene
+        - dweber019
+        - mikevader
         privacy: closed
         repos:
           org: admin
